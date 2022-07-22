@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+ "users": [
+  {
+    "id": 1,
+    "fullName": "Jane Doe",
+    "email":"jane@gmail.com",
+    "userName": "jane-doe",
+    "password": "plantlady"
+  },
+  {
+    "id": 2,
+    "fullName": "Jack Doe",
+    "email":"jack@gmail.com",
+    "userName": "jack-doe",
+    "password": "lakelover"
+  },
+  {
+    "id": 3,
+    "fullName": "Joe Doe",
+    "email":"joe@gmail.com",
+    "userName": "joe-doe",
+    "password": "boatdude"
+  }
+ ],
+ "songs": [
+  {
+    "id": 1,
+    "name": "Knocking on Heavens Door",
+    "artist": "Bob Dylan",
+    "key": "G", 
+    "timeSigniture": "4/4",
+    "lyrics": "Mama, take this badge off of me\nI can't use it anymore\nIt's gettin' dark, too dark to see\nI feel like I'm knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nMama, put my guns in the ground,\n I can't shoot them anymore,\n This long black cloud is coming down, \n Feels like I'm knocking on heaven's door",
+    "userId": 2,
+    "setListId": 1
+  }
+ ],
+ "setlists": [
+{  "id": 1,
+  "name": "Whisky a Go Go",
+  "gigDate": "4/12/23",
+  "gigLocation": "Hollywood",
+  "userId": 2}
+ ],
+"setListSongs": [
+  {
+    "id": 1,
+    "songId": 1,
+    "setListId": 1,
+    "songPostition": 1
+  }
+]
+}
