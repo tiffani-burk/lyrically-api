@@ -49,6 +49,56 @@
     "lyrics": "Mama, take this badge off of me\nI can't use it anymore\nIt's gettin' dark, too dark to see\nI feel like I'm knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nMama, put my guns in the ground,\n I can't shoot them anymore,\n This long black cloud is coming down, \n Feels like I'm knocking on heaven's door",
     "userId": 2,
     "setListId": 1
+  },
+  {
+    "id": 2,
+    "name": "Can't Help Falling in Love",
+    "artist": "Elvis Presley",
+    "key": "D", 
+    "timeSigniture": "4/4",
+    "lyrics": "Lyrics to Elvis",
+    "userId": 1,
+    "setListId": 2
+  },
+  {
+    "id": 3,
+    "name": "Kashmir",
+    "artist": "Led Zeppelin",
+    "key": "D", 
+    "timeSigniture": "4/4",
+    "lyrics": "Kashmir lyrics",
+    "userId": 2,
+    "setListId": 1
+  },
+  {
+    "id": 4,
+    "name": "What's Up",
+    "artist": "4 Non Blondes",
+    "key": "G", 
+    "timeSigniture": "4/4",
+    "lyrics": "Mama, take this badge off of me\nI can't use it anymore\nIt's gettin' dark, too dark to see\nI feel like I'm knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nMama, put my guns in the ground,\n I can't shoot them anymore,\n This long black cloud is coming down, \n Feels like I'm knocking on heaven's door",
+    "userId": 2,
+    "setListId": 1
+  },
+  {
+    "id": 5,
+    "name": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "key": "Bb", 
+    "timeSigniture": "4/4",
+    "lyrics": "Lyrics to Bohem Rhap",
+    "userId": 1,
+    "setListId": 2
+  },
+  {
+    "id": 6,
+    "name": "Creep",
+    "artist": "Radiohead",
+    "key": "G", 
+    "timeSigniture": "4/4",
+    "lyrics": "Radiohead lyrics",
+    "userId": 2,
+    "setListId": 1
   }
  ],
  "setlists": [
