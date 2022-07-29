@@ -16,104 +16,139 @@
   "profile": {
     "name": "typicode"
   },
- "users": [
-  {
-    "id": 1,
-    "fullName": "Jane Doe",
-    "email":"jane@gmail.com",
-    "userName": "jane-doe",
-    "password": "plantlady"
-  },
-  {
-    "id": 2,
-    "fullName": "Jack Doe",
-    "email":"jack@gmail.com",
-    "userName": "jack-doe",
-    "password": "lakelover"
-  },
-  {
-    "id": 3,
-    "fullName": "Joe Doe",
-    "email":"joe@gmail.com",
-    "userName": "joe-doe",
-    "password": "boatdude"
-  }
- ],
- "songs": [
-  {
-    "id": 1,
-    "name": "Knocking on Heavens Door",
-    "artist": "Bob Dylan",
-    "key": "G", 
-    "timeSigniture": "4/4",
-    "lyrics": "Mama, take this badge off of me\nI can't use it anymore\nIt's gettin' dark, too dark to see\nI feel like I'm knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nMama, put my guns in the ground,\n I can't shoot them anymore,\n This long black cloud is coming down, \n Feels like I'm knocking on heaven's door",
-    "userId": 2,
-    "setListId": 1
-  },
-  {
-    "id": 2,
-    "name": "Can't Help Falling in Love",
-    "artist": "Elvis Presley",
-    "key": "D", 
-    "timeSigniture": "4/4",
-    "lyrics": "Lyrics to Elvis",
-    "userId": 1,
-    "setListId": 2
-  },
-  {
-    "id": 3,
-    "name": "Kashmir",
-    "artist": "Led Zeppelin",
-    "key": "D", 
-    "timeSigniture": "4/4",
-    "lyrics": "Kashmir lyrics",
-    "userId": 2,
-    "setListId": 1
-  },
-  {
-    "id": 4,
-    "name": "What's Up",
-    "artist": "4 Non Blondes",
-    "key": "G", 
-    "timeSigniture": "4/4",
-    "lyrics": "Mama, take this badge off of me\nI can't use it anymore\nIt's gettin' dark, too dark to see\nI feel like I'm knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nMama, put my guns in the ground,\n I can't shoot them anymore,\n This long black cloud is coming down, \n Feels like I'm knocking on heaven's door",
-    "userId": 2,
-    "setListId": 1
-  },
-  {
-    "id": 5,
-    "name": "Bohemian Rhapsody",
-    "artist": "Queen",
-    "key": "Bb", 
-    "timeSigniture": "4/4",
-    "lyrics": "Lyrics to Bohem Rhap",
-    "userId": 1,
-    "setListId": 2
-  },
-  {
-    "id": 6,
-    "name": "Creep",
-    "artist": "Radiohead",
-    "key": "G", 
-    "timeSigniture": "4/4",
-    "lyrics": "Radiohead lyrics",
-    "userId": 2,
-    "setListId": 1
-  }
- ],
- "setlists": [
-{  "id": 1,
-  "name": "Whisky a Go Go",
-  "gigDate": "4/12/23",
-  "gigLocation": "Hollywood",
-  "userId": 2}
- ],
-"setListSongs": [
-  {
-    "id": 1,
-    "songId": 1,
-    "setListId": 1,
-    "songPostition": 1
-  }
-]
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Jane Doe",
+      "email": "jane@gmail.com",
+      "userName": "jane-doe",
+      "password": "plantlady"
+    },
+    {
+      "id": 2,
+      "fullName": "Jack Doe",
+      "email": "jack@gmail.com",
+      "userName": "jack-doe",
+      "password": "lakelover"
+    },
+    {
+      "id": 3,
+      "fullName": "Joe Doe",
+      "email": "joe@gmail.com",
+      "userName": "joe-doe",
+      "password": "boatdude"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "name": "Knocking on Heavens Door",
+      "artist": "Bob Dylan",
+      "key": "G",
+      "timeSignature": "4/4",
+      "lyrics": "Mama, take this badge off of me\nI can't use it anymore\nIt's gettin' dark, too dark to see\nI feel like I'm knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nMama, put my guns in the ground,\n I can't shoot them anymore,\n This long black cloud is coming down, \n Feels like I'm knocking on heaven's door",
+      "userId": 2,
+      "setListId": 1
+    },
+    {
+      "id": 2,
+      "name": "Can't Help Falling in Love",
+      "artist": "Elvis Presley",
+      "key": "D",
+      "timeSignature": "4/4",
+      "lyrics": "Wise men say \nOnly fools rush in\n But I can't help falling in love with you\nShall I stay?\nWould it be a sin\nIf I can't help falling in love with you?\nLike a river flows\n Surely to the sea\n Darling, so it goes\nSome things are meant to be",
+      "userId": 1,
+      "setListId": 2
+    },
+    {
+      "id": 3,
+      "name": "Kashmir",
+      "artist": "Led Zeppelin",
+      "key": "D",
+      "timeSignature": "4/4",
+      "lyrics": "Oh, let the sun beat down upon my face \n And stars fill my dream\n I'm a traveler of both time and space\n To be where I have been\nTo sit with elders of the gentle race\n This world has seldom seen\nThey talk of days for which they sit and wait\n All will be revealed\nTalk in song from tongues of lilting grace\nSounds caress my ear\nAnd not a word I heard could I relate\nThe story was quite clear",
+      "userId": 2,
+      "setListId": 2
+    },
+    {
+      "id": 4,
+      "name": "What's Up",
+      "artist": "4 Non Blondes",
+      "key": "G",
+      "timeSignature": "4/4",
+      "lyrics": "25 years and my life is still\n Tryin' to get up that great big hill of hope\n For a destination\n I realized quickly when I knew I should\n That the world was made up of this brotherhood of man\n For whatever that means\n[Pre-Chorus]\nAnd so I cry sometimes when I'm lying in bed\nJust to get it all out what's in my head\n And I, I am feeling a little peculiar\nAnd so I wake in the morning and I step outside\nAnd I take a deep breath and I get real high\n And I scream from the top of my lungs\nWhat's going on?",
+      "userId": 2,
+      "setListId": 3
+    },
+    {
+      "id": 5,
+      "name": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "key": "Bb",
+      "timeSignature": "4/4",
+      "lyrics": "Is this the real life? Is this just fantasy? \n Caught in a landside, \n No escape from reality Open your eyes, \nLook up to the skies and see, \nI'm just a poor boy, \nI need no sympathy,\nBecause I'm easy come, easy go, Little high, \nlittle low,Any way the wind blows\n doesn't really matter toMe, to me",
+      "userId": 1,
+      "setListId": 4
+    },
+    {
+      "id": 5,
+      "name": "Creep",
+      "artist": "Queen",
+      "key": "Bb",
+      "timeSignature": "4/4",
+      "lyrics": "When you were here before \nCouldn't look you in the eye \n You're just like an angel\n Your skin makes me cry\n You float like a feather\nIn a beautiful world\n I wish I was special\n You're so f***n' special \n But I'm a creep \nI'm a weirdo \n What the hell am I doin' here? \n I don't belong here \n",
+      "userId": 1,
+      "setListId": 4
+    }
+  ],
+  "setlists": [
+    {
+      "id": 1,
+      "name": "Whisky a Go Go",
+      "gigDate": "8/20/22",
+      "gigLocation": "Hollywood",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "name": "The Viper Room",
+      "gigDate": "9/03/22",
+      "gigLocation": "Hollywood",
+      "userId": 2
+    },
+    {
+      "name": "Tailgate",
+      "gigDate": "09/30/22",
+      "gigLocation": "Nashville",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Frescos",
+      "gigDate": "09/14/22",
+      "gigLocation": "Palmdale",
+      "userId": 1,
+      "id": 4
+    }
+  ],
+  "setListSongs": [
+    {
+      "id": 1,
+      "songId": 1,
+      "setListId": 2,
+      "songPostition": 1
+    },
+    {
+      "id": 2,
+      "songId": 3,
+      "setListId": 1,
+      "songPostition": 2
+    },
+    {
+      "id": 3,
+      "songId": 2,
+      "setListId": 3,
+      "songPostition": 1
+    }
+  ]
 }
