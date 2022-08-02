@@ -47,18 +47,7 @@
       "key": "G",
       "timeSignature": "4/4",
       "lyrics": "Mama, take this badge off of me\nI can't use it anymore\nIt's gettin' dark, too dark to see\nI feel like I'm knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nMama, put my guns in the ground,\n I can't shoot them anymore,\n This long black cloud is coming down, \n Feels like I'm knocking on heaven's door",
-      "userId": 2,
-      "setListId": 1
-    },
-    {
-      "id": 2,
-      "name": "Can't Help Falling in Love",
-      "artist": "Elvis Presley",
-      "key": "D",
-      "timeSignature": "4/4",
-      "lyrics": "Wise men say \nOnly fools rush in\n But I can't help falling in love with you\nShall I stay?\nWould it be a sin\nIf I can't help falling in love with you?\nLike a river flows\n Surely to the sea\n Darling, so it goes\nSome things are meant to be",
-      "userId": 1,
-      "setListId": 2
+      "userId": 2
     },
     {
       "id": 3,
@@ -67,28 +56,16 @@
       "key": "D",
       "timeSignature": "4/4",
       "lyrics": "Oh, let the sun beat down upon my face \n And stars fill my dream\n I'm a traveler of both time and space\n To be where I have been\nTo sit with elders of the gentle race\n This world has seldom seen\nThey talk of days for which they sit and wait\n All will be revealed\nTalk in song from tongues of lilting grace\nSounds caress my ear\nAnd not a word I heard could I relate\nThe story was quite clear",
-      "userId": 2,
-      "setListId": 2
+      "userId": 2
     },
     {
       "id": 4,
-      "name": "What's Up",
-      "artist": "4 Non Blondes",
-      "key": "G",
-      "timeSignature": "4/4",
-      "lyrics": "25 years and my life is still\n Tryin' to get up that great big hill of hope\n For a destination\n I realized quickly when I knew I should\n That the world was made up of this brotherhood of man\n For whatever that means\n[Pre-Chorus]\nAnd so I cry sometimes when I'm lying in bed\nJust to get it all out what's in my head\n And I, I am feeling a little peculiar\nAnd so I wake in the morning and I step outside\nAnd I take a deep breath and I get real high\n And I scream from the top of my lungs\nWhat's going on?",
-      "userId": 2,
-      "setListId": 3
-    },
-    {
-      "id": 5,
       "name": "Bohemian Rhapsody",
       "artist": "Queen",
       "key": "Bb",
       "timeSignature": "4/4",
       "lyrics": "Is this the real life? Is this just fantasy? \n Caught in a landside, \n No escape from reality Open your eyes, \nLook up to the skies and see, \nI'm just a poor boy, \nI need no sympathy,\nBecause I'm easy come, easy go, Little high, \nlittle low,Any way the wind blows\n doesn't really matter toMe, to me",
-      "userId": 1,
-      "setListId": 4
+      "userId": 1
     },
     {
       "id": 5,
@@ -97,8 +74,61 @@
       "key": "Bb",
       "timeSignature": "4/4",
       "lyrics": "When you were here before \nCouldn't look you in the eye \n You're just like an angel\n Your skin makes me cry\n You float like a feather\nIn a beautiful world\n I wish I was special\n You're so f***n' special \n But I'm a creep \nI'm a weirdo \n What the hell am I doin' here? \n I don't belong here \n",
+      "userId": 1
+    },
+    {
       "userId": 1,
-      "setListId": 4
+      "name": "Fall Into Me",
+      "artist": "Tiffani Jenee",
+      "key": "C",
+      "timeSignature": "4/4",
+      "lyrics": "Fall into my arms and...",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "name": "Mustang Sally",
+      "artist": "Wilson Pickett",
+      "key": "Gb",
+      "time": "4/4",
+      "lyrics": "Mustang Sally, guess you better slow your Mustang down (what I said now) \nMustang Sally, now baby, guess you better slow your Mustang down (oh yeah)\nYou been running all over the town now\nOh! I guess I'll have to put your flat feet on the ground\n(what I said now)\n[Hook]All you want to do is ride around Sally\nRide, Sally, ride\nAll you want to do is ride around Sally\nRide, Sally, ride\nAll you want to do is ride around Sally\nRide, Sally, ride\nOne of these early mornings oh\nYou gonna be wiping your weeping eyes\n"
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "name": "Perfect",
+      "artist": "Ed Sheeran",
+      "key": "G",
+      "time": "4/4",
+      "lyrics": "            G        Em \nI found a love for me\nC                            D\nDarling, just dive right in, and follow my lead\nG          Em\nWell, I found a girl beautiful and sweet\nC                                     D\nI never knew you were the someone waiting for me\n[Pre-Chorus]\nG\nCause we were just kids when we fell in love\nEm                      C                G  D\nNot knowing what it was, I will not give you up this ti-ime\nG                           Em\nDarling just kiss me slow, your heart is all I own\nC                     D\nAnd in your eyes you're holding mine \n                          D"
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "name": "House of the Rising Sun",
+      "artist": "The Animals",
+      "key": "Am",
+      "time": "4/4",
+      "lyrics": " [Verse 1]\nAm   C        D          F\nThere is a house in New Orleans\nAm       C      E\nThey call the Rising Sun\nAm       C       D           F\nAnd it's been the ruin of many a poor boy\nAm     E         | Am | C | D | F | Am | E | Am | E |\nAnd God, I know, I'm one                (organ plays E7)\n[Verse 2]\nAm     C     D        F\nMy mother was a tailor (organ: F7) \nAm       C        E\nShe sewed my new blue jeans (organ: E7) \nAm     C     D        F\nMy father was a gambling man\nAm      E     | Am | C | D | F | Am | E | Am | E |\nDown in New Orleans.             (organ plays E7)"
+    },
+    {
+      "userId": 1,
+      "name": "I Am Strong",
+      "artist": "Tiffani Jenee",
+      "key": "Am ",
+      "timeSignature": "4/4",
+      "lyrics": "lyrics of the song",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "name": "Hallelujah",
+      "artist": "Jeff Buckley",
+      "key": "C",
+      "timeSignature": "6/8",
+      "lyrics": "[Verse 1]\nC                 Am\nI heard there was a secret chord\nC                   Am\nThat David played and it pleased the lord\nF                G               C        G\nBut you don't really care for music, do you?\nC                  F           G\nWell it goes like this the fourth, the fifth\nAm                 F\nThe minor fall and the major lift\nG            E7             Am\nThe baffled king composing hallelujah\n\n[Chorus]\nF           Am          F           C    G   C      Am C Am\nHallelujah, hallelujah, hallelujah, hallelu-u-u-u-jah ....\n\n[Verse 2]\nC                        Am\nWell, your faith was strong but you needed proof\nC               Am\nYou saw her bathing on the roof\nF              G             C            G\nHer beauty and the moonlight overthrew you\nC               F       G\nShe tied you to her kitchen chair\nAm                        F\n",
+      "id": 12
     }
   ],
   "setlists": [
@@ -125,10 +155,31 @@
     },
     {
       "name": "Frescos",
-      "gigDate": "09/14/22",
+      "gigDate": "10/12/22",
       "gigLocation": "Palmdale",
       "userId": 1,
       "id": 4
+    },
+    {
+      "name": "The Rainbow Room",
+      "gigDate": "10/12/22",
+      "gigLocation": "Hollywood",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "name": "Silverlake Lounge",
+      "gigDate": "09/30/22",
+      "gigLocation": "Hollywood",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "name": "Tailgate",
+      "gigDate": "09/30/22",
+      "gigLocation": "Nashville",
+      "userId": 1,
+      "id": 6
     }
   ],
   "setListSongs": [
@@ -145,10 +196,109 @@
       "songPostition": 2
     },
     {
-      "id": 3,
-      "songId": 2,
+      "id": 4,
+      "songId": 4,
       "setListId": 3,
-      "songPostition": 1
+      "songPostition": 4
+    },
+    {
+      "id": 5,
+      "songId": 5,
+      "setListId": 3,
+      "songPostition": 5
+    },
+    {
+      "songId": 10,
+      "setListId": 3,
+      "songPosition": 0,
+      "id": 8
+    },
+    {
+      "songId": 10,
+      "setListId": 3,
+      "songPosition": 0,
+      "id": 9
+    },
+    {
+      "songId": 4,
+      "setListId": 4,
+      "songPosition": 0,
+      "id": 11
+    },
+    {
+      "songId": 5,
+      "setListId": 4,
+      "songPosition": 0,
+      "id": 12
+    },
+    {
+      "songId": 7,
+      "setListId": 4,
+      "songPosition": 0,
+      "id": 14
+    },
+    {
+      "songId": 4,
+      "setListId": 3,
+      "songPosition": 0,
+      "id": 15
+    },
+    {
+      "songId": 1,
+      "setListId": 3,
+      "songPosition": 0,
+      "id": 18
+    },
+    {
+      "songId": 3,
+      "setListId": 3,
+      "songPosition": 0,
+      "id": 19
+    },
+    {
+      "songId": 6,
+      "setListId": 5,
+      "songPosition": 0,
+      "id": 20
+    },
+    {
+      "songId": 8,
+      "setListId": 5,
+      "songPosition": 0,
+      "id": 21
+    },
+    {
+      "songId": 11,
+      "setListId": 3,
+      "songPosition": 0,
+      "id": 22
+    }
+  ],
+  "songLibrary": [
+    {
+      "id": 2,
+     "songId": 3,
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "songId": 3,
+       "userId": 1
+    },
+    {
+      "id": 4,
+      "songId": 3,
+       "userId": 1
+    },
+    {
+      "id": 5,
+      "songId": 3,
+       "userId": 1
+    },
+    {
+      "id": 6,
+      "songId": 3,
+      "userId": 1
     }
   ]
 }
