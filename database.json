@@ -41,85 +41,58 @@
   ],
   "songs": [
     {
-      "id": 1,
-      "name": "Knocking on Heavens Door",
-      "artist": "Bob Dylan",
-      "key": "G",
-      "timeSignature": "4/4",
-      "lyrics": "Mama, take this badge off of me\nI can't use it anymore\nIt's gettin' dark, too dark to see\nI feel like I'm knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nKnock, knock, knockin' on heaven's door\nMama, put my guns in the ground,\n I can't shoot them anymore,\n This long black cloud is coming down, \n Feels like I'm knocking on heaven's door",
-      "userId": 2
-    },
-    {
-      "id": 3,
+      "userId": 1,
+      "id": 2,
       "name": "Kashmir",
       "artist": "Led Zeppelin",
       "key": "D",
-      "timeSignature": "4/4",
-      "lyrics": "Oh, let the sun beat down upon my face \n And stars fill my dream\n I'm a traveler of both time and space\n To be where I have been\nTo sit with elders of the gentle race\n This world has seldom seen\nThey talk of days for which they sit and wait\n All will be revealed\nTalk in song from tongues of lilting grace\nSounds caress my ear\nAnd not a word I heard could I relate\nThe story was quite clear",
-      "userId": 2
+      "timeSignature": "6/8",
+      "lyrics": "[Verse]\nA              A#        B                    C    D\nOh let the sun beat down upon my face, stars to fill my dream \nA      A#                    B                     C    D\nI am a traveler of both time and space, to be where I have been\nA      A#                B                        C    D\nTo sit with elders of the gentle race, this world has seldom seen\nA       A#                     B                    C\nThey talk of days for which they sit and wait, and all will be revealed\n[Bridge]\n( A D F C  G A   C G Bb F ) x2    A# B C D\n[Verse]\nA         A#                     B                         C    D\nTalk and song from tongues of lilting grace, whose sounds caress my ear\nA      A#                 B                       C    D\nBut not a word I heard could I relate, the story was quite clear\nA A# B C D   A A# B C D\nOh....       Oh....\n[Bridge]\n( A D F C  G A   C G Bb F ) x2   A# B C\n( A D F C  G A   C G Bb F ) A\n[Interlude]\nAOh, I been flying, Mama, there ain't no denyin'\nAI've been flying, ain't no denyin', no denyin' (vocal improv...)\n[Bridge]\n( A D F C  G A   C G Bb F ) x2\n[Mid-section]\nG                    A  G                        A\nAll I see turns to brown, as the sun burns the ground\nG                  A       G                  A\nAnd my eyes, fill with sand, as I scan, this wasted land\nG                                          A    A A# B C D  A A# B C D\nTrying to find, trying to find where I've been\n[Verse]\n   A       A#                      B                          C    D\nOh, pilot of the storm who leaves no trace, like thoughts inside a dream\nA        A#                  B                    C    D\nHeed the path that led me to that place, yellow desert stream\nA     A#                  B                     C    D\nMy Shangri-La beneath the summer moon, I will return again\nA         A#                B                          C    D\nSure as the dust that floats high in June, when movin' through Kashmir\n[Bridge]\n( A D F C  G A   C G Bb F ) x2   A# B C D\n[Verse]A       A#                      B                    C    D\nOh, father of the four winds, fill my sails, across the sea of years\n      A     A#              B                       C    D\nWith no provision but an open face, along the straits of fear\nA A# B C D   A A# B C D\nOhh          ooh\n[Bridge]( A D F C  G A   C G Bb F ) x2   A# B C\n( A D F C  G A   C G Bb F ) x2   A\n[Outro]\nG                            A\nWhen I'm on, when I'm on my way, yeah\nG                                     A\nWhen I see, when I see the way, you stay, yeah\nG A G A G                                        A\nOoh, yeah-yeah, ooh, yeah-yeah, when I'm down...\nG                                         A\nOoh, yeah-yeah, ooh, yeah-yeah, well I'm down, so down\nG                                              A   G A G\nOoh, my baby, oooh, my baby, let me take you there\n"
     },
     {
-      "id": 4,
+      "userId": 1,
+      "id": 3,
       "name": "Bohemian Rhapsody",
       "artist": "Queen",
       "key": "Bb",
       "timeSignature": "4/4",
-      "lyrics": "Is this the real life? Is this just fantasy? \n Caught in a landside, \n No escape from reality Open your eyes, \nLook up to the skies and see, \nI'm just a poor boy, \nI need no sympathy,\nBecause I'm easy come, easy go, Little high, \nlittle low,Any way the wind blows\n doesn't really matter toMe, to me",
-      "userId": 1
+      "lyrics": "[Intro]\nGm7                    C7      Gm7  C7    Gm7  C7\nIs this the real life? Is this just fan - ta - sy?\nF7          Cm7    F7          Bb        Cm7  Bb  F7   Bb\nCaught in a land - slide, no escape from re - a - li - ty.\nGm7                  Bb7                 Eb\nOpen your eyes, look up to the skies and see.\nCm7                   F7\nI'm just a poor boy, I need no sympathy, because I'm\nB    Bb    A    Bb  B      Bb    A      Bb\neasy come, easy go, little high, little low.\nEb          Bb/D       C#dim7         F7/C             Bb\nAny way the wind blows doesn't really matter to me, to me.\n[Verse 1]\nBb           Gm                  Cm\nMama,   just killed a man, put a gun against his head,\nCm7               F7\npulled my trigger, now he's dead.\nBb               Gm              Cm\nMama,   life had just begun, but now I've gone and\nEb/Cb     Eb/Bb  Am7b5   Abmaj7  Eb/G\nthrown it all    away.\n[Chorus]\nEb    Bb/D  Cm          Fm           Eaug Ab/Eb  Dm7b5\nMama, ooh_______ didn't mean to make you  cry.\nBb7                            Eb            Bb/D      Cm\nIf I'm not back again this time tomorrow, carry on, carry on\nAbm            Eb          Ab  Eb  Ebdim  Fm7  Bb\nas if nothing really matters.\n[Verse 2]\nBb             Gm                   Cm\nToo late,   my time has come, sends shivers down my spine,\nCm7            F7\nbody's aching all the time.\nBb                      Gm               Cm\nGoodbye everybody, I've got to go, gotta leave you all\nEb/Cb    Eb/Bb Am7b5     Abmaj7  Eb/G\nBehind and fa - ace the truth.\n[Chorus]\nEb    Bb/D  Cm    Fm         Eaug Ab/Eb  Dm7b5\nMama, ooh_______  I don't wanna die,\nBb7\nI sometimes wish I'd never been born at all\n[Solo]\nEb  Bb/D  Cm  Fm Eaug Ab/Eb Dm7b5  Bb7\nEb  Bb/D  Cm  Fm Eaug Ab/Eb Dm7b5\nDb Db/C Db/Cb Db/Bb\n[Opera]A     D A     Adim   A     D    A    Adim\nI see a little silhouetto of a man.\nA     D      A     D      A        Adim   A  D  A\nScaramouche, Scaramouche, will you do the Fandango?\nDb/Ab           Ab7        C/G        E7          A\nThunderbolt and lightning, very, very fright'ning me.\nGallileo, Gallileo, Gallileo, Gallileo - Gallileo Figaro, Magnifico-oh-oh-oh-oh...\nB   Bb     A    Bb   B    Bb   A     Bb\nI'm just a poor boy, no - body loves me.\nAb/Eb Eb     Ebdim Eb  Ab/Eb  Eb   Ebdim     Eb\nHe's  just a poor  boy from a poor fam - i - ly.\nAb            Eb/G           F7       Bb\nSpare him his life from this monstrosity.\nAb  Eb/G  F#dim  Fm7\n\nB    Bb    A    Bb  B        Bb     A    Bb    Eb    Bb\nEasy come, easy go, will you let me go?  Bis - mil - lah!\nEb  Bb      Eb/Bb  Bb7  Eb/Bb Bb    Eb\nNo, we will not    let  you   go. - Let him go!  Bismillah!\nEb\nWe will not let you go. - Let him go!  Bismillah!  We will not let you go. - Let me go.\nEb\nWill not let you go. - Let me go.  Will not let you go. - Let me go.\nF#7Oh-oh-oh-oh...\nBm  A7  D   Db7 Gb7 Bb7 Eb  N.C.\nNo, no, no, no, no, no, no. Oh, mamma mia, mamma mia,\nEb    Ab/Eb  Eb  Ddim  Cm7  Bb7    Eb  Ab        D7         Gm       Bb7\nMamma mi  -  a,  let   me   go.  Beelzebub has a devil put aside for me,\nBb7\nfor me, for meeeeee!\n[Interlude]\n| Eb  | Eb  | Eb  | F   |\nBb                                   Eb         Bb     Db\nSo you think you can stone me and spit in my eye.\nBb                                  Eb7         Ab\nSo you think you can love me and leave me to die.\n      Fm     Bb     Fm                      Bb\nOh,    baby,     can't do this to me, baby.\nFm             Bb   Fm             Bb          Eb\nJust gotta get out, just gotta get right outta here.\n| (Eb) | Eb  | Eb  | F  |\n| Gb Ab A | B7  | Ab7 | Bb7 ...\n[Outro]\nEb    Bb/D    Cm   Bdim7 Cm    Bdim7 Cm   Bb7  Eb  D   Gm   Ab   Eb\nOoh______________  Ooh   yeah, ooh   yeah\nCm             Gm       Cm         Gm\nNothing really matters, anyone can see.\nCm             Abm      Ab/Bb                     Eb\nNothing really matters, nothing really matters to me.\nEb  Ab  Eb  Ebdim7\nBb/D  Bbm/Db  C7  C7-9  C7  F\nBb  F       Abdim Gm7    F\nAny way the wind  blows."
     },
     {
-      "id": 5,
+      "userId": 1,
+      "id": 4,
       "name": "Creep",
-      "artist": "Queen",
+      "artist": "Radiohead",
       "key": "Bb",
       "timeSignature": "4/4",
-      "lyrics": "When you were here before \nCouldn't look you in the eye \n You're just like an angel\n Your skin makes me cry\n You float like a feather\nIn a beautiful world\n I wish I was special\n You're so f***n' special \n But I'm a creep \nI'm a weirdo \n What the hell am I doin' here? \n I don't belong here \n",
-      "userId": 1
+      "lyrics": "[Verse 1]\n     G                              B\nWhen you were here before, couldn't look you in the eyes\n    C                         Cm\nYou're just like an angel, your skin makes me cry\n G                      B\nYou float like a feather in a beautiful world\nC                          Cm\nI wish I was special, you're so f***g special\n[Chorus] (play loud)\nG (x3, very short)\nG            BBut I'm a creep, I'm a weirdo\n         C               Cm\nWhat the hell am I doing here? I don't belong here\n[Verse 2]\n  G                      B\nI don't care if it hurts, I wanna have control\n C                      Cm\nI want a perfect body, I want a perfect soul\nG                    B\nI want you to notice when I'm not around\n  C                     Cm\nYou're so f***g special, I wish I was special\n[Chorus] (play loud)\nG (x3, very short)\nG            BBut I'm a creep, I'm a weirdo\n          C               Cm\nWhat the hell am I doing here? I don't belong here\n[Bridge] (play loud)\nG                     BOooh, oooh, she's running out the door...\nC                      Cm\nShe's running out, she run, run, run...\nG     B\nRuuuuuuuun...\nC     Cm\nRuuuuuuuuuuun...\n[Verse 3] (play soft until the end)\n    G                   B\nWhatever makes you happy, whatever you want\n  C                     Cm\nYou're so fucking special, I wish I was special\n[Chorus]\nG            B\nBut I'm a creep, I'm a weirdo\n          C               Cm\nWhat the hell am I doing here? I don't belong here\nG\nI don't belong here\nX\n"
     },
     {
       "userId": 1,
-      "name": "Fall Into Me",
-      "artist": "Tiffani Jenee",
-      "key": "C",
-      "timeSignature": "4/4",
-      "lyrics": "Fall into my arms and...",
-      "id": 6
-    },
-    {
-      "id": 7,
-      "userId": 1,
+      "id": 5,
       "name": "Mustang Sally",
       "artist": "Wilson Pickett",
-      "key": "Gb",
+      "key": "C",
       "time": "4/4",
-      "lyrics": "Mustang Sally, guess you better slow your Mustang down (what I said now) \nMustang Sally, now baby, guess you better slow your Mustang down (oh yeah)\nYou been running all over the town now\nOh! I guess I'll have to put your flat feet on the ground\n(what I said now)\n[Hook]All you want to do is ride around Sally\nRide, Sally, ride\nAll you want to do is ride around Sally\nRide, Sally, ride\nAll you want to do is ride around Sally\nRide, Sally, ride\nOne of these early mornings oh\nYou gonna be wiping your weeping eyes\n"
+      "lyrics": "C7      C     *( C7 C C7 )\n      Mustang Sally                       C\n      Guess you better slow \n           C7      C\n      Your Mustang down \n    Oh Lord, what I say now\nF          F7\n      Mustang Sally, now baby \n      Oh Lord\nF\nGuess you better slow \nC    *( C7 C C7 )\nYour Mustang down \nH'uh, oh yeah\n G                          ( G  G  F )\nYou been running all over town, now  \n Oh, I guess I have to put your flat feet\nC      *( C7 C C7 )\n      On the ground \n       Ha!\n What I said, now\nListen!\n      C7                  C           C7\nAll you wanna do is ride around Sally \nC    C7     C\n(Ride Sally, ride) \nC7                  C           C7\nAll you wanna do is ride around Sally \nC    C7     C\n(Ride Sally, ride) \nF                   F7          F\nAll you wanna do is ride around Sally\nF    F7    F\n(Ride Sally ride) hu'h \nC7                    C           C7\nAll you wanna do is a ride around Sally \nC    C7    C\nAlright (ride Sally ride) \nWell, listen\nG                                 G  G  F\nOne of these early mornings, yeah \nWoow!\nC\nGonna be wiping yo weeping eyes \nH'uh!\nWhat I said, now\nLook-A-here!\nC7                     C\nI bought you a brand new Mustang \nC7             C\nA nineteen sixty-five, h'uh! \nC7\nNow you come around \nC               C7\nSignifying, now woman \nC                  C7\nYou don't wanna let me ride \nF          F7\nMustang Sally, now baby \nOh Lord\nF\nGuess you better slow \nC    *( C7 C C7 )\nthat Mustang down \nH'uh, oh Lord\nG                          G G F\nYou been running all over town, now  \nOh, I got to put your flat feet\nC      *( C7 C C7 )\nOn the ground \nHa!\nWhat I said, now\nLet me say it one more time now\nC7                  C           C7\nAll you wanna do is ride around Sally \nC    C7     C\n(Ride Sally, ride) \nC7                  C           C7\nAll you wanna do is ride around Sally \nC    C7     C\n(Ride Sally, ride) "
     },
     {
-      "id": 8,
       "userId": 1,
+      "id": 6,
       "name": "Perfect",
       "artist": "Ed Sheeran",
       "key": "G",
       "time": "4/4",
-      "lyrics": "            G        Em \nI found a love for me\nC                            D\nDarling, just dive right in, and follow my lead\nG          Em\nWell, I found a girl beautiful and sweet\nC                                     D\nI never knew you were the someone waiting for me\n[Pre-Chorus]\nG\nCause we were just kids when we fell in love\nEm                      C                G  D\nNot knowing what it was, I will not give you up this ti-ime\nG                           Em\nDarling just kiss me slow, your heart is all I own\nC                     D\nAnd in your eyes you're holding mine \n                          D"
-    },
+      "lyrics": "            G        Em \nI found a love for me\nC                            D\nDarling, just dive right in, and follow my lead\nG          Em\nWell, I found a girl beautiful and sweet\nC                                     D\nI never knew you were the someone waiting for me\n[Pre-Chorus]\nG\nCause we were just kids when we fell in love\nEm                      C                G  D\nNot knowing what it was, I will not give you up this ti-ime\nG                           Em\nDarling just kiss me slow, your heart is all I own\nC                     D\nAnd in your eyes you're holding mine \n                          D \n [Chorus] \n       Em   C             G          D              Em\n Baby, I'm dancing in the dark, with you between my arms\n C                G     D                Em\n Barefoot on the grass, listening to our favourite song\n           C                G                 D              Em\n When you said you looked a mess, I whispered underneath my breath\n         C                G        D             G\n But you heard it, darling you look perfect tonight\n | G D/F# Em D | C  D  |\n [Verse 2]\n                 G                    Em\n Well, I found a woman, stronger than anyone I know\n               C                                          D\n She shares my dreams, I hope that someday I'll share her home\n           G             Em\n I found a love, to carry more than just my secrets\n          C                              D\n To carry love, to carry children of our own\n [Pre-Chorus]\n                              G                     Em\n We are still kids, but we're so in love, fighting against all odds\n             C               G  D\n I know we'll be alright this ti-ime\n             G                              Em\n Darling just hold my hand, be my girl, I'll be your man\n          C               D\n I see my future in your eyes\n [Chorus]\n      Em   C              G         D              Em\n Baby, I'm dancing in the dark, with you between my arms\n C                G     D                Em\n Barefoot on the grass, listening to our favourite song\n         C                G                D\n When I saw you in that dress, looking so beautiful\n Em       C                  G        D          [ G ]\n I don't deserve this, darling you look perfect tonight\n [Interlude]\n | G  | % | Em | % |\n | C  | % | D  | % |\n  [Chorus]\n Em   C              G         D              Em\n Baby, I'm dancing in the dark, with you between my arms\n C                G     D                Em\n Barefoot on the grass, listening to our favourite song\n C              G               D             Em\n I have faith in what I see, now I know I have met an angel \n C          G         D\n In person, and she looks perfect\n [Outro]\n  G/B     C           Dsus4    D        [ G ]\n I don't deserve this, you look perfect tonight\n | G D/F# Em D | C  D  | G "
+   },
     {
-      "id": 10,
       "userId": 1,
+      "id": 7,
       "name": "House of the Rising Sun",
       "artist": "The Animals",
       "key": "Am",
       "time": "4/4",
-      "lyrics": " [Verse 1]\nAm   C        D          F\nThere is a house in New Orleans\nAm       C      E\nThey call the Rising Sun\nAm       C       D           F\nAnd it's been the ruin of many a poor boy\nAm     E         | Am | C | D | F | Am | E | Am | E |\nAnd God, I know, I'm one                (organ plays E7)\n[Verse 2]\nAm     C     D        F\nMy mother was a tailor (organ: F7) \nAm       C        E\nShe sewed my new blue jeans (organ: E7) \nAm     C     D        F\nMy father was a gambling man\nAm      E     | Am | C | D | F | Am | E | Am | E |\nDown in New Orleans.             (organ plays E7)"
-    },
-    {
-      "userId": 1,
-      "name": "I Am Strong",
-      "artist": "Tiffani Jenee",
-      "key": "Am ",
-      "timeSignature": "4/4",
-      "lyrics": "lyrics of the song",
-      "id": 11
+      "lyrics": "  \n[Intro]\n| Am | C | D | F |\n| Am | E | Am | E |\n[Verse 1]\nAm   C        D          F\nThere is a house in New OrleansAm       C      E\nThey call the Rising Sun\nAm       C       D           F\nAnd it's been the ruin of many a poor boy\nAm     E         | Am | C | D | F | Am | E | Am | E |\nAnd God, I know, Im one                (organ plays E7)\n[Verse 2]\nAm     C     D        F\nMy mother was a tailor (organ: F7) \nAm       C        E\nShe sewed my new blue jeans (organ: E7) \nAm     C     D        F\nMy father was a gambling man\nAm      E     | Am | C | D | F | Am | E | Am | E |\nDown in New Orleans.             (organ plays E7)\n[Verse 3]\nAm   C       D       F\nNow the only thing a gambler needs (organ: F7) \nAm       C     E\nIs a suitcase and a trunk (organ: E7) \nAm   C     D         F\nAnd the only time, he's satisfied, \nAm        E    | Am | C | D | F | Am | E | Am | E |\nIs when he's on a drunk              (organ plays E7)\n[Solo]\n| Am | C | D | F |\n| Am | C | E | % |\n| Am | C | D | F |\n| Am | E |\n| Am | C/E | D | F |\n| Am | E | Am | E |\n[Verse 4]\nAm     C          D           F\nO, mother, tell your children (organ: F7) \nAm      C      E\nNot to do what I have done (organ: E7) \nAm         C        D           F\nSpend your lives in sin and misery\nAm       E     | Am | C | D | F | Am | E | Am | E |\nIn the House of Rising Sun              (organ plays E7)\n[Verse 5]\nAm       C      D            F\nWell, I got one foot on the platform (organ plays F7)\nAm         C      E\nThe other foot on the train (organ: E7) \nAm    C       D     F\nI'm going back to New Orleans (organ: F7) \nAm        E        | Am | C | D | F | Am | E | Am | E |\nTo wear that ball and chain              (organ plays E7#9)\n[Verse 6]\nAm   C        D             F\nWell, there is a house in New Orleans (organ: F7) \nAm        C      E\n  They call the Rising Sun  (organ: E7) \nAm       C       D           F\nAnd it's been the ruin of many a poor boy\nAm     E7      | Am | C | D | F7 | Am | E7 |\nAnd God, I know, I'm one\n[Coda]\n| Am | Dm | Am | Dm | Am | Dm |\n(a tempo)\n| Am | Dm | Am | Dm | Am"
     },
     {
       "userId": 1,
@@ -127,7 +100,34 @@
       "artist": "Jeff Buckley",
       "key": "C",
       "timeSignature": "6/8",
-      "lyrics": "[Verse 1]\nC                 Am\nI heard there was a secret chord\nC                   Am\nThat David played and it pleased the lord\nF                G               C        G\nBut you don't really care for music, do you?\nC                  F           G\nWell it goes like this the fourth, the fifth\nAm                 F\nThe minor fall and the major lift\nG            E7             Am\nThe baffled king composing hallelujah\n\n[Chorus]\nF           Am          F           C    G   C      Am C Am\nHallelujah, hallelujah, hallelujah, hallelu-u-u-u-jah ....\n\n[Verse 2]\nC                        Am\nWell, your faith was strong but you needed proof\nC               Am\nYou saw her bathing on the roof\nF              G             C            G\nHer beauty and the moonlight overthrew you\nC               F       G\nShe tied you to her kitchen chair\nAm                        F\n",
+      "lyrics": " Capo 5 \n [Verse 3]\nG                  Em\nBaby, I've been here before,\nG                   Em\nI know this room and I've walked this floor,\nC                         D      G       D\nI used to live alone before I knew ya.\nG                   C        D\nAnd I've seen your flag on the marble arch,\nEm                 C\nAnd love is not a victory march,\nD               B7          Em\nIt's a cold and it's a broken hallelujah,\nC           Em          C           G   D   G\nHallelujah, hallelujah, hallelujah, hallelu------jah\n[Instrumental]\n(G) Em G Em\n[Verse 4]\nG                 Em\nThere was a time when you let me know,\nG                   Em\nWhat's really going on below,\nC                         D      G       D\nBut now you never show it to me do ya.\nG                   C        D\nWell remember when I moved in you,\nEm                 C\nAnd the holy dove was moving too,\nD               B7          Em\nAnd every breath we drew was hallelujah,\nC           Em          C           G   D    G\nHallelujah, hallelujah, hallelujah, hallelu------jah\n[Instrumental]\n(G) Em G Em\n[Verse 5]\nG                Em\nMaybe there's a God above,\nG                   Em\nBut all I ever learned from love,\nC                          D      G       D\nWas how to shoot at somebody who outdrew ya.\nG                   C       D\nAnd it's not a cry that you hear at night,\nEm                 C\nIt's not somebody who's seen the light,\nD               B7          Em\nIt's a cold and it's a broken hallelujah,\nC           Em          C           G   D\nHallelujah, hallelujah, hallelujah, hallelu-jah\nC           Em          C           G   D\nHallelujah, hallelujah, hallelujah, hallelu------jah",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "name": "I Am Strong",
+      "artist": "Jane Doe",
+      "key": "Am ",
+      "timeSignature": "4/4",
+      "lyrics": "lyrics of the song",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "name": "Crazy",
+      "artist": "Jane Doe",
+      "key": "Bb",
+      "timeSignature": "4/4",
+      "lyrics": "Crazy Lyrics...",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "name": "All of Me",
+      "artist": "John Legend ",
+      "key": "Em",
+      "timeSignature": "3/4",
+      "lyrics": "[Intro]\n      Em  C  G  D  x2\n             [Verse 1]\n      Em           Cmaj7                  G\n      What would I do without your smart mouth\n                 D                      Em\nDrawing me in, and you kicking me out\nC            G               D          Em\nGot my head spinning, no kidding, I can't pin you down\nCmaj7                 G\nWhat's going on in that beautiful mind\nD             Em\nI'm on your magical mystery ride\nCadd9             G                     D         Amadd9\nAnd I'm so   dizzy, don't know what hit me, but I'll be alright\n    [Pre-Chorus A]\nAm             G\nMy head's under water\nD              Amadd9\nBut I'm breathing fine\nG              D\nYou're crazy and I'm out of my mind\n[Chorus]\nG\nCause all of me\nEmadd9\nLoves all of you\nAm/C\nLove your curves and all your edges\nC/D        D\nAll your perfect imperfections\nG\nGive your all to me\nEmadd9\nI'll give my all to you\nAm/C\nYou're my end and my beginning\nC/D             D\nEven when I lose I'm winning\nEm   C      G   Dadd9\nCause I give you all, all of me\nEm   C      G    Dadd9\nAnd you give me all, all of you, oh\n    [Verse 2]\nEm       C                       G\nHow many times do I have to tell you\nD                       Em\nEven when you're crying you’re beautiful too\nC           G          D                  Em\nThe world is beating you down, I'm around through every mood\nC                 G\nYou're my downfall, you're my muse\nD                        Em\nMy worst distraction, my rhythm and blues\nC             G        D            Am\nI can't stop singing, it's ringing, in my head for you\n[Pre-Chorus A]\nAm             G\nMy head's under water\nD              Amadd9\nBut I'm breathing fine\nG              D\nYou're crazy and I'm out of my mind     [Chorus]\nG\nCause all of me\nEmadd9\nLoves all of you\nAm/C\nLove your curves and all your edges\nC/D        D\nAll your perfect imperfections\nG\nGive your all to me\nEmadd9\nI'll give my all to you\nAm/C\nYou're my end and my beginning\nC/D             D\nEven when I lose I'm winning\nEm   C      G   Dadd9\nCause I give you all, all of me\nEm   C      G    Dadd9\nAnd you give me all, all of you, oh\nAm\nGive me all of you[Pre-Chorus B]\n(Am)          G\nCards on the table\nD             Amadd9\nWe're both showing hearts\nAm          G                D\nRisking it all, though it's hard\n[Chorus]\nG\nCause all of me\nEmadd9\nLoves all of you\nAm/C\nLove your curves and all your edges\nC/D        D\nAll your perfect imperfections\nG\nGive your all to me\nEmadd9\nI'll give my all to you\nAm/C\nYou're my end and my beginning\nC/D             D\nEven when I lose I'm winning\nEm   C      G   Dadd9\nCause I give you all, all of me\nEm   C      G    Dadd9\nAnd you give me all, all of you\n[Outro]\nEm   C      G   D\nI give you all, all of me\nEm   C      G    D\nAnd you give me all, all of you, oh",
       "id": 12
     }
   ],
@@ -154,41 +154,35 @@
       "id": 3
     },
     {
-      "name": "Frescos",
-      "gigDate": "10/12/22",
-      "gigLocation": "Palmdale",
-      "userId": 1,
-      "id": 4
-    },
-    {
-      "name": "The Rainbow Room",
-      "gigDate": "10/12/22",
+      "name": "The Rainbow Room ",
+      "gigDate": "11/02/22",
       "gigLocation": "Hollywood",
-      "userId": 1,
-      "id": 4
-    },
-    {
-      "name": "Silverlake Lounge",
-      "gigDate": "09/30/22",
-      "gigLocation": "Hollywood",
-      "userId": 1,
-      "id": 5
-    },
-    {
-      "name": "Tailgate",
-      "gigDate": "09/30/22",
-      "gigLocation": "Nashville",
       "userId": 1,
       "id": 6
+    },
+    {
+      "name": "Whisky a Go GO",
+      "gigDate": "12/01/22",
+      "gigLocation": "Hollywood",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Whisky a Go GO",
+      "gigDate": "09/30/22",
+      "gigLocation": "Hollywood",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "name": "Whisky a Go GO",
+      "gigDate": "09/30/22",
+      "gigLocation": "Hollywood",
+      "userId": 1,
+      "id": 9
     }
   ],
   "setListSongs": [
-    {
-      "id": 1,
-      "songId": 1,
-      "setListId": 2,
-      "songPostition": 1
-    },
     {
       "id": 2,
       "songId": 3,
@@ -206,18 +200,6 @@
       "songId": 5,
       "setListId": 3,
       "songPostition": 5
-    },
-    {
-      "songId": 10,
-      "setListId": 3,
-      "songPosition": 0,
-      "id": 8
-    },
-    {
-      "songId": 10,
-      "setListId": 3,
-      "songPosition": 0,
-      "id": 9
     },
     {
       "songId": 4,
@@ -238,24 +220,6 @@
       "id": 14
     },
     {
-      "songId": 4,
-      "setListId": 3,
-      "songPosition": 0,
-      "id": 15
-    },
-    {
-      "songId": 1,
-      "setListId": 3,
-      "songPosition": 0,
-      "id": 18
-    },
-    {
-      "songId": 3,
-      "setListId": 3,
-      "songPosition": 0,
-      "id": 19
-    },
-    {
       "songId": 6,
       "setListId": 5,
       "songPosition": 0,
@@ -268,37 +232,70 @@
       "id": 21
     },
     {
-      "songId": 11,
-      "setListId": 3,
+      "songId": 2,
+      "setListId": 7,
       "songPosition": 0,
       "id": 22
-    }
-  ],
-  "songLibrary": [
-    {
-      "id": 2,
-     "songId": 3,
-      "userId": 1
     },
     {
-      "id": 3,
-      "songId": 3,
-       "userId": 1
+      "songId": 2,
+      "setListId": 3,
+      "songPosition": 0,
+      "id": 23
     },
     {
-      "id": 4,
-      "songId": 3,
-       "userId": 1
+      "songId": 5,
+      "setListId": 7,
+      "songPosition": 0,
+      "id": 24
     },
     {
-      "id": 5,
-      "songId": 3,
-       "userId": 1
+      "songId": 2,
+      "setListId": 3,
+      "songPosition": 0,
+      "id": 27
     },
     {
-      "id": 6,
+      "songId": 2,
+      "setListId": 3,
+      "songPosition": 0,
+      "id": 28
+    },
+    {
+      "songId": 2,
+      "setListId": 8,
+      "songPosition": 0,
+      "id": 29
+    },
+    {
       "songId": 3,
-      "userId": 1
+      "setListId": 8,
+      "songPosition": 0,
+      "id": 30
+    },
+    {
+      "songId": 5,
+      "setListId": 8,
+      "songPosition": 0,
+      "id": 31
+    },
+    {
+      "songId": 2,
+      "setListId": 9,
+      "songPosition": 0,
+      "id": 32
+    },
+    {
+      "songId": 3,
+      "setListId": 9,
+      "songPosition": 0,
+      "id": 33
+    },
+    {
+      "songId": 4,
+      "setListId": 9,
+      "songPosition": 0,
+      "id": 34
     }
   ]
 }
